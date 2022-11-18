@@ -35,3 +35,4 @@ C:\Users\KORISNIK\Desktop\Faks\FOI\RPP\PrepoznajLice\PrepoznajLice\PrepoznajLice
 C:\Users\KORISNIK\Desktop\Faks\FOI\RPP\PrepoznajLice\PrepoznajLice\PrepoznajLice\bin\Debug\tr\ZedGraph.resources.dll
 C:\Users\KORISNIK\Desktop\Faks\FOI\RPP\PrepoznajLice\PrepoznajLice\PrepoznajLice\bin\Debug\zh-cn\ZedGraph.resources.dll
 C:\Users\KORISNIK\Desktop\Faks\FOI\RPP\PrepoznajLice\PrepoznajLice\PrepoznajLice\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\KORISNIK\Desktop\Faks\FOI\RPP\PrepoznajLice\PrepoznajLice\PrepoznajLice\bin\Debug\FaceRecognition.dll
